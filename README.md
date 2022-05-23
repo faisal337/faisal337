@@ -37,9 +37,6 @@ Full-stack Java developer who likes to build thins. I am fresher and curious abo
   <a href="https://www.linkedin.com/in/mohammed-faisal-598b46115/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/Ffaisal337" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
   <a href="mailto:mohammed.faisal337@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
