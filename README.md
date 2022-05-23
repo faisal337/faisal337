@@ -54,5 +54,19 @@ Full-stack Java developer who likes to build thins. I am fresher and curious abo
       <a href="https://leetcode.com/faisal337/" target="_blank">
     <img alt = "LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
       </a>
-  
 </div>
+
+## Stats
+
+<div align="center">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faisal337&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+      </div>
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal337&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /> 
+      </div>
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal337&layout=compact&theme=dark&hide_border=true" />
+   </div>
