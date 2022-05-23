@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi there   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=faisal337"></h2>
 
 Full-stack Java developer who likes to build thins. I am fresher and curious about new technologies and I love to work on Java, Databases and Python :rocket:
 
