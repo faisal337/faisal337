@@ -23,7 +23,7 @@ Full-stack Java developer who likes to build thins. I am fresher and curious abo
 ## Databases
 <div align="center">
   <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt ="Teradata" src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="MS SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
