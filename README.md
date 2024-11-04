@@ -13,6 +13,12 @@ Full-stack Java developer who likes to build thins. I am fresher and curious abo
    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
 </div>
 
+##Libraries 
+<div align="center">
+  <img alt="Pandas" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b"/>
+  <img alt="NumPy" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" />
+</div>
+
 ## Tools
 <div align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -63,7 +69,7 @@ Full-stack Java developer who likes to build thins. I am fresher and curious abo
       </div>
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal337&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal337&show_icons=true&theme=aura" alt="My github stats" /> 
       </div>
 <div align="center">
 
