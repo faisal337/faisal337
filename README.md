@@ -1,6 +1,6 @@
 # Hi there   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=faisal337"></h2>
 
-Full-stack Java developer who likes to build thins. I am fresher and curious about new technologies and I love to work on Java, Databases and Python :rocket:
+Data Engineer who loves playing around with data. I am curious about new technologies and I love to work on Python, SQL and ML :rocket:
 
 ---
 
